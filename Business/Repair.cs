@@ -8,7 +8,7 @@
             get { return n; }
             set
             {
-                if (value >= 0 && value < 101)
+                if (value >= 0 && value < 201)
                 {
                     n = value;
                 }
