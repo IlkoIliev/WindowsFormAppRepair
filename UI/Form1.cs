@@ -30,7 +30,7 @@ namespace UI
             }
             catch (ArgumentOutOfRangeException ae)
             {
-                MessageBox.Show(ae.Message, "Грешка");
+                MessageBox.Show(ae.Message, "Грешката");
             }
         }
     }
